@@ -1,17 +1,17 @@
 # Проект 0. Угадай число 
 
 ## Оглавление
-[1. Описание проекта] (https://github.com/MaxPorsh/sf_data_science/blob/master/project_0/game_2.py#Описание-проекта)
+[1. Описание проекта] (https://github.com/MaxPorsh/sf_data_science/tree/master/project_0#Описание-проекта)
 
-[2. Какой кейс решаем?] (https://github.com/MaxPorsh/sf_data_science/blob/master/project_0/game_2.py#Какой-кейс-решаем)
+[2. Какой кейс решаем?] (https://github.com/MaxPorsh/sf_data_science/tree/master/project_0#Какой-кейс-решаем)
 
-[3. Краткая информация о данных] (https://github.com/MaxPorsh/sf_data_science/blob/master/project_0/game_2.py#Краткая-информация-о-данных)
+[3. Краткая информация о данных] (https://github.com/MaxPorsh/sf_data_science/tree/master/project_0#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом] (https://github.com/MaxPorsh/sf_data_science/blob/master/project_0/game_2.py#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом] (https://github.com/MaxPorsh/sf_data_science/tree/master/project_0#Этапы-работы-над-проектом)
 
-[5. Результат] (https://github.com/MaxPorsh/sf_data_science/blob/master/project_0/game_2.py#Результат)
+[5. Результат] (https://github.com/MaxPorsh/sf_data_science/tree/master/project_0#Результат)
 
-[6. Выводы] (https://github.com/MaxPorsh/sf_data_science/blob/master/project_0/game_2.py#Выводы)
+[6. Выводы] (https://github.com/MaxPorsh/sf_data_science/tree/master/project_0#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
