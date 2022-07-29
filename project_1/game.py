@@ -15,7 +15,7 @@ def random_predict(number:int=1) -> int:
         if predict_number > number:
            max_n = predict_number 
            predict_number = round((max_n + min_n) // 2)
-        elif predict_number < number:
+           elif predict_number < number:
            min_n = predict_number
            predict_number = round((max_n + min_n) // 2)
         elif predict_number is None:
