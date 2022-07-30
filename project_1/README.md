@@ -1,13 +1,13 @@
 # Проект 1. Написать программу которая угадывает число загаданное компьютером.
 
 ## Оглавление
-*[1. Описание проекта](https://github.com/MaxPorsh/sf_data_science/tree/new_branch_proverka/project_1#Описание-проекта)
+* [1. Описание проекта](https://github.com/MaxPorsh/sf_data_science/tree/new_branch_proverka/project_1#Описание-проекта)
 
-*[2. Какой кейс решаем?](https://github.com/MaxPorsh/sf_data_science/blob/new_branch_proverka/project_1/game.py#Какой-кейс-решаем)
+* [2. Какой кейс решаем?](https://github.com/MaxPorsh/sf_data_science/blob/new_branch_proverka/project_1/game.py#Какой-кейс-решаем)
 
-*[3. Этапы работы над проектом](https://github.com/MaxPorsh/sf_data_science/blob/new_branch_proverka/project_1/game.py#Этапы-работы-над-проектом)
+* [3. Этапы работы над проектом](https://github.com/MaxPorsh/sf_data_science/blob/new_branch_proverka/project_1/game.py#Этапы-работы-над-проектом)
 
-*[4. Результат](https://github.com/MaxPorsh/sf_data_science/blob/new_branch_proverka/project_1/game.py#Результат)
+* [4. Результат](https://github.com/MaxPorsh/sf_data_science/blob/new_branch_proverka/project_1/game.py#Результат)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
